@@ -2,6 +2,7 @@
 - [Nickolas Conke de Freitas]
 - [Eduardo Soares Pereira Giannini]
 
+# Prótotipo 3
 O protótipo 3 foi desenvolvido utilizando o flutter e estruturado com os seguintes componentes de layout:
 - MaterialApp: Define o aplicativo como um app Material Design.
 - DefaultTabController: Permite o controle de abas com TabBar e TabBarView.
@@ -16,3 +17,13 @@ O protótipo 3 foi desenvolvido utilizando o flutter e estruturado com os seguin
 - GridView.builder: Grade para mostrar os álbuns e artistas similares.
 - SingleChildScrollView: Permite rolagem em colunas que podem ter muitos elementos.
 - BottomNavigationBar: Barra inferior com itens de navegação como Home, Search e Library.
+
+#Prótotipo 4
+Este projeto apresenta o protótipo de um cardápio digital para um restaurante japonês. O layout utiliza:
+
+- Column para organizar a tela principal;
+- Row para estruturar os itens do cardápio;
+- Wrap para exibir filtros de categoria;
+- FittedBox no título do restaurante;
+- Stack + Positioned para exibir selos de desconto;
+- Table para a tabela nutricional dos pratos.
