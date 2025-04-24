@@ -77,7 +77,7 @@ class _Prototipo4State extends State<Prototipo4> {
         centerTitle: true,
         title: const FittedBox(
           child: Text(
-            "🍱 Hanami Sushi Bar ",
+            "🍱 Golden Tempura ",
             style: TextStyle(
               color: brancoSuave,
               fontWeight: FontWeight.bold,
